@@ -1,0 +1,42 @@
+body {
+  background-color: silver;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+div {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px black;
+  width: 300px;
+  margin: 0 auto;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #9f9b9b;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 20px;
+  background-color: rgb(40, 95, 40);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 30px;
+  margin: 15px 10px;
+}
+button:hover {
+  background-color: red;
+}
+#result {
+  text-align: center;
+}
